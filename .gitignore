@@ -23,3 +23,5 @@ Temporary Items
 .icloud
 
 .ipynb_checkpoints
+
+__pycache__
